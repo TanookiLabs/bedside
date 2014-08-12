@@ -5,8 +5,8 @@
 /* TEAM */
   Hacker: Eric Skiff
   Hacker: David Renz
-  Site: http://tanookisuitlabs.com
-  Twitter: @TanookiSuitLabs
+  Site: http://tanookilabs.com
+  Twitter: @TanookiLabs
   Location: Brooklyn, NYC
 
 /* THANKS */
